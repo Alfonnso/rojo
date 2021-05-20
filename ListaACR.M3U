@@ -1,0 +1,15 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Encoder",Canal 5 Televisa Quintana Roo
+http://10.60.11.39:8088/hls/stream0.m3u8
+#EXTINF:-1 group-title="Encoder",Canal 7 Azteca Quintana Roo
+http://10.60.11.39:8088/hls/stream1.m3u8
+#EXTINF:-1 group-title="Encoder",Canal 6+ City TV Quintana Roo
+http://10.60.11.39:8088/hls/stream2.m3u8
+#EXTINF:-1 group-title="Encoder",Canal 9 Televisa Quintana Roo
+http://10.60.11.39:8088/hls/stream3.m3u8
+#EXTINF:-1 group-title="Encoder",Canal MIX Quintana Roo
+http://10.60.11.39:8088/hls/stream15.m3u8
+#EXTINF:-1 group-title="Encoder",Televisa Sonora EniTV 
+https://xamanha01-enitv.eninetworks.com/hmo_tdt_01_channel8/tracks-v1a1/mono.m3u8?token=alfonsocastillo--809c7b39-919b-48f9-8839-7acc27f89669
+#EXTINF:-1 group-title="Encoder", WEB Televisa Sonora EniTV 
+https://xamanha01-enitv.eninetworks.com/hmo_tdt_01_channel8/tracks-v1a1/mono.m3u8?token=alfonsocastillo--809c7b39-919b-48f9-8839-7acc27f89669
